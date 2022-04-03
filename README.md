@@ -1,5 +1,5 @@
-<img src="https://raw.githubusercontent.com/jldomingues/jldomingues/main/BackgroundEraser_20220403_150255306.png" width="400px" align="center">
-
+<img src="https://raw.githubusercontent.com/jldomingues/jldomingues/main/BackgroundEraser_20220403_184452323.png" width="400px" align="center">
+<div id="center" align="center">
 Venho diáriamente estudando para aprimorar minhas skills para conseguir meu
  primeiro emprego como Desenvolvedor front-end. Busco sempre criar e inovar meus códigos de forma coesa, semântica e limpa, cada dia aprimorando mais meu conhecimento e emergindo nesse imenso mundo da programação web!
 
@@ -10,3 +10,4 @@ Meu curriculum
 
 Em breve muitas coisas novas ,maio promete
 Estarei de férias do trabalho e muitos projetos a caminho 🙈
+</div>
